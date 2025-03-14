@@ -3,7 +3,7 @@
 🚀 **Welcome to V2X-Hub!**
 
 This page showcases our group's research and innovation on bidirectional Electric Vehicles (EVs).
-We are a research team at the **Salford Business School** of the **University of Salford**. Our research is dedicated to advancing **Sustainability** with a focus on **sustainable energy and transport systems** through cutting-edge research and innovation.  We pursue UN Sustainable Development Goals [SDG] (https://sdgs.un.org/goals) 7, 9, 11, 12, 13. 
+We are a research team at the **Salford Business School** of the **University of Salford**. Our research is dedicated to advancing **Sustainability** with a focus on **sustainable energy and transport systems** through cutting-edge research and innovation.  We pursue UN Sustainable Development Goals [UN-SDGs](https://sdgs.un.org/goals) 7, 9, 11, 12, 13. 
 
 ## 🌍 Our Mission  
 To develop visionary and holistic solutions for **decarbonization, energy transition, and sustainable mobility**.  
